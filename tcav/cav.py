@@ -31,7 +31,7 @@ import tensorflow as tf
 class CAV(object):
   """CAV class contains methods for concept activation vector (CAV).
 
-  CAV represents semenatically meaningful vector directions in
+  CAV represents semantically meaningful vector directions in
   network's embeddings (bottlenecks).
   """
 

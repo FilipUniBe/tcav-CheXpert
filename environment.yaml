@@ -1,0 +1,14 @@
+name: myenv_tcav-CheXpert  # Replace 'my_environment' with your desired environment name
+channels:
+  - defaults
+  - conda-forge  # You can add additional channels if needed
+
+dependencies:
+  - matplotlib==2.2.4
+  - Pillow==8.2.0
+  - scikit-learn==0.20.3
+  - scipy==1.2.1
+  #- tensorflow==2.5.1 #https://artificialintelligence.so/forums/discussion/how-to-install-tensorflow/
+  - numpy==1.19.2
+  - protobuf==3.10.0
+  - pandas==1.0.3

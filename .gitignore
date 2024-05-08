@@ -3,4 +3,5 @@
 /*.egg-info
 .ipynb_checkpoints/
 build/
+tcav_examples/image_models/imagenet/YOUR_PATH/
 
